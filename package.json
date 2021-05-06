@@ -9,7 +9,7 @@
     "ag-grid-react": "^23.2.1",
     "bootstrap": "4.5.0",
     "classnames": "^2.2.6",
-    "highcharts": "^8.1.2",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^3.0.0",
     "history": "4.10.1",
     "igv": "^2.6.6",
